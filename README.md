@@ -7,16 +7,16 @@
 	* https://www.terraform.io/downloads.html
 	* https://www.consul.io/downloads.html
 	* https://www.nomadproject.io/downloads.html
-上記からそれぞれダウンロードいただきパスを通しておいて下さい。
+	* 上記からそれぞれダウンロードいただきパスを通しておいて下さい。
 
 * Terraform Cloudアカウント作成
 	* https://app.terraform.io/signup
 	* https://www.terraform.io/docs/cloud/users-teams-organizations/organizations.html
-上記からSignupして頂きログインし、Organizationの作成まで済ませておいて下さい。
+	* 上記からSignupして頂きログインし、Organizationの作成まで済ませておいて下さい。
 
 * Install MySQL 5.7
 	* https://dev.mysql.com/downloads/mysql/5.7.html
-上記からダウンロードしていただきMySQLが起動するところまでご確認下さい。
+	* 上記からダウンロードしていただきMySQLが起動するところまでご確認下さい。
 
 * Install Docker
 	* https://docs.docker.com/docker-for-mac/install/
