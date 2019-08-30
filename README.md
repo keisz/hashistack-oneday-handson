@@ -9,10 +9,9 @@
 	* https://www.nomadproject.io/downloads.html
 	* 上記からそれぞれダウンロードいただきパスを通しておいて下さい。
 
-* Terraform Cloudアカウント作成
-	* https://app.terraform.io/signup
-	* https://www.terraform.io/docs/cloud/users-teams-organizations/organizations.html
-	* 上記からSignupして頂きログインし、Organizationの作成まで済ませておいて下さい。
+* AWSアカウント作成
+	* https://portal.aws.amazon.com/billing/signup?refid=em_127222&redirect_url=https%3A%2F%2Faws.amazon.com%2Fregistration-confirmation#/start
+	* AWSのアカウントを作成しRootユーザのAccess KeyとSecret Keyをメモしておいて下さい。
 
 * Install MySQL 5.7
 	* https://dev.mysql.com/downloads/mysql/5.7.html
@@ -42,6 +41,7 @@
 	* [Vaultのコンフィグレーションと起動](https://github.com/hashicorp-japan/vault-workshop/blob/master/contents/hello-vault.md#vault%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
 	* [Database Secret Engine](https://github.com/hashicorp-japan/vault-workshop/blob/master/contents/db.md)
 	* [Transit Secret Engine](https://github.com/hashicorp-japan/vault-workshop/blob/master/contents/transit.md)
+	* [Vault認証とポリシー](https://github.com/hashicorp-japan/vault-workshop/blob/master/contents/policy.md)
 	* [SSH Secret Engine(Optional)](https://github.com/hashicorp-japan/vault-workshop/blob/master/contents/ssh.md)
 	* [KV Secret Engine(Optional)](https://github.com/hashicorp-japan/vault-workshop/blob/master/contents/kv.md)
 	* AWS Secret Engine(Demo)
@@ -61,5 +61,5 @@
 
 ## 資料
 
-* [プレゼン資料]()
+* [プレゼン資料](https://docs.google.com/presentation/d/1XY8d50uL_K05KGhVyRIfW9kasaZIaW_kex0WdrBtmrk/edit?usp=sharing)
 * [進捗表](https://docs.google.com/spreadsheets/d/1CjTs4V4cFvXliRAswCcSQ7v_OyXkGc_ZvzM_WLvPUtw/edit?usp=sharing)
