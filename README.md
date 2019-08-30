@@ -40,8 +40,8 @@
 * Vault
 	* [Vaultのコンフィグレーションと起動](https://github.com/hashicorp-japan/vault-workshop/blob/master/contents/hello-vault.md#vault%E3%81%AE%E3%82%B3%E3%83%B3%E3%83%95%E3%82%A3%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)
 	* [Database Secret Engine](https://github.com/hashicorp-japan/vault-workshop/blob/master/contents/db.md)
-	* [Transit Secret Engine](https://github.com/hashicorp-japan/vault-workshop/blob/master/contents/transit.md)
 	* [Vault認証とポリシー](https://github.com/hashicorp-japan/vault-workshop/blob/master/contents/policy.md)
+	* [Transit Secret Engine](https://github.com/hashicorp-japan/vault-workshop/blob/master/contents/transit.md)
 	* [SSH Secret Engine(Optional)](https://github.com/hashicorp-japan/vault-workshop/blob/master/contents/ssh.md)
 	* [KV Secret Engine(Optional)](https://github.com/hashicorp-japan/vault-workshop/blob/master/contents/kv.md)
 	* AWS Secret Engine(Demo)
