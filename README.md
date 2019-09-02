@@ -55,6 +55,7 @@
 	* [Consulのコンフィグレーションと起動](https://github.com/hashicorp-japan/consul-workshop/blob/master/contents/hello-consul.md#%E9%80%9A%E5%B8%B8%E3%83%A2%E3%83%BC%E3%83%89%E3%81%A7consul%E3%82%92%E8%B5%B7%E5%8B%95%E3%81%99%E3%82%8B)
 	* [Service Discovery](https://github.com/hashicorp-japan/consul-workshop/blob/master/contents/srd.md)
 	* [Sidecar Proxy and Intensions](https://github.com/hashicorp-japan/consul-workshop/blob/master/contents/mesh.md)
+	* [Service Configuration(Optional)](https://github.com/hashicorp-japan/consul-workshop/blob/master/contents/scf.md)
 	* [L7 Traffic Management(Optional)](https://github.com/hashicorp-japan/consul-workshop/blob/master/contents/mesh.md)
 * Nomad
 * [アンケート](https://docs.google.com/forms/d/1omJQf9jjx7dx4b5bZSwhW95do0p6iO7qMozFSo8uUdM/edit)
