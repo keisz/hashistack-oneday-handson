@@ -57,7 +57,6 @@
 	* [Sidecar Proxy and Intensions](https://github.com/hashicorp-japan/consul-workshop/blob/master/contents/intentsions.md)
 	* [Service Configuration(Optional)](https://github.com/hashicorp-japan/consul-workshop/blob/master/contents/scf.md)
 	* [L7 Traffic Management(Optional)](https://github.com/hashicorp-japan/consul-workshop/blob/master/contents/l7.md)
->>>>>>> d977d052c64e740ce650e5f839559ac6a4ee5001
 * Nomad
 * [アンケート](https://docs.google.com/forms/d/1omJQf9jjx7dx4b5bZSwhW95do0p6iO7qMozFSo8uUdM/edit)
 
